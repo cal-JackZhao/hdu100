@@ -1,0 +1,15 @@
+17:20:08 **** Incremental Build of configuration Debug for project p2026 ****
+make all 
+Building file: ../p2026.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2026.d" -MT"p2026.o" -o "p2026.o" "../p2026.cpp"
+Finished building: ../p2026.cpp
+ 
+Building target: p2026
+Invoking: MacOS X C++ Linker
+g++  -o "p2026"  ./p2026.o   
+Finished building target: p2026
+ 
+
+17:20:09 Build Finished. 0 errors, 0 warnings. (took 444ms)
+

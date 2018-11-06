@@ -1,0 +1,15 @@
+17:20:07 **** Incremental Build of configuration Debug for project p2019 ****
+make all 
+Building file: ../p2019.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2019.d" -MT"p2019.o" -o "p2019.o" "../p2019.cpp"
+Finished building: ../p2019.cpp
+ 
+Building target: p2019
+Invoking: MacOS X C++ Linker
+g++  -o "p2019"  ./p2019.o   
+Finished building target: p2019
+ 
+
+17:20:07 Build Finished. 0 errors, 0 warnings. (took 330ms)
+

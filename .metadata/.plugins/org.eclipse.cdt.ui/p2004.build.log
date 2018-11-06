@@ -1,0 +1,15 @@
+17:20:04 **** Incremental Build of configuration Debug for project p2004 ****
+make all 
+Building file: ../p2004.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2004.d" -MT"p2004.o" -o "p2004.o" "../p2004.cpp"
+Finished building: ../p2004.cpp
+ 
+Building target: p2004
+Invoking: MacOS X C++ Linker
+g++  -o "p2004"  ./p2004.o   
+Finished building target: p2004
+ 
+
+17:20:04 Build Finished. 0 errors, 0 warnings. (took 382ms)
+

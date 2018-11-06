@@ -1,0 +1,23 @@
+/*
+ * p2024.cpp
+ *
+ *  Created on: Nov 4, 2018
+ *      Author: zhaohankai
+ */
+#include<cstdio>
+#include<cstring>
+#include<string>
+using namespace std;
+int main() {
+	int n;
+	while (scanf("%d", &n) != EOF) {
+		string s;
+		for (int i=0;i<n;i++) {
+			scanf("%s", );
+		}
+	}
+	return 0;
+}
+
+
+

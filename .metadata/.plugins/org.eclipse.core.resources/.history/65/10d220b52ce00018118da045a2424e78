@@ -1,0 +1,35 @@
+/*
+ * p2023.cpp
+ *
+ *  Created on: 2018年10月18日
+ *      Author: zhaohankai
+ */
+#include<cstdio>
+#include<iostream>
+using namespace std;
+int main() {
+	int n, m;
+	while (scanf("%d%d", &n, &m) != EOF) {
+		int a[51][6];
+		memset(a,sizeof(a),0);
+		double average[51];
+		memset(average,sizeof(average),0);
+		for (int i=0;i<n;i++){
+			for (int j=0;j<m;i++) {
+				scanf("%d", &a[i][j]);
+			}
+		}
+		for (int i=0;i<n;i++) {
+			int sum=0;
+			for (int j=0;j<m;j++) {
+				sum += a[i][j];
+			}
+			average[i]=sum/m;
+		}
+
+	}
+	return 0;
+}
+
+
+

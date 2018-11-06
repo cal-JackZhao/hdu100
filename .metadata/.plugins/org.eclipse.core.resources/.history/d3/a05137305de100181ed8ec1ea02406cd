@@ -1,0 +1,29 @@
+/*
+ * p2030.cpp
+ *
+ *  Created on: Nov 5, 2018
+ *      Author: zhaohankai
+ */
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+#include<string>
+using namespace std;
+int main() {
+	int n;
+	scanf("%d",&n);
+	getchar();
+	for (int i=0;i<n;i++) {
+		string s;
+		getline(cin,s);
+		int num=0;
+		for (int j=0;j<s.length();j++) {
+			if (s[i]<0) num++;
+		}
+		printf("%d\n",num/2);
+	}
+	return 0;
+}
+
+
+

@@ -1,0 +1,15 @@
+17:20:06 **** Incremental Build of configuration Debug for project p2012 ****
+make all 
+Building file: ../p2012.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2012.d" -MT"p2012.o" -o "p2012.o" "../p2012.cpp"
+Finished building: ../p2012.cpp
+ 
+Building target: p2012
+Invoking: MacOS X C++ Linker
+g++  -o "p2012"  ./p2012.o   
+Finished building target: p2012
+ 
+
+17:20:06 Build Finished. 0 errors, 0 warnings. (took 432ms)
+

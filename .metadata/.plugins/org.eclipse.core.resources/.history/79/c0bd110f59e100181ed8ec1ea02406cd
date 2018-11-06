@@ -1,0 +1,32 @@
+/*
+ * p2029.cpp
+ *
+ *  Created on: Nov 5, 2018
+ *      Author: zhaohankai
+ */
+#include<iostream>
+#include<cstdio>
+#include<string>
+#include<cstring>
+using namespace std;
+
+bool check(string s) {
+	for (int i=0;i<s.length();i++) {
+
+	}
+}
+
+int main() {
+	int n;
+	scanf("%d",&n);
+	string s;
+	for (int i=0;i<n;i++) {
+		getline(cin,s);
+		if (check(s)) printf("yes\n");
+		else printf("no\n");
+	}
+	return 0;
+}
+
+
+

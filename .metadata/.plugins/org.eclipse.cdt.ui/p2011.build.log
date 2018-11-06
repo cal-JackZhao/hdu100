@@ -1,0 +1,19 @@
+17:20:05 **** Incremental Build of configuration Debug for project p2011 ****
+make all 
+Building file: ../p2011.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2011.d" -MT"p2011.o" -o "p2011.o" "../p2011.cpp"
+../p2011.cpp:11:9: warning: unused variable 't' [-Wunused-variable]
+        int m, t = 1, f = 1;
+               ^
+1 warning generated.
+Finished building: ../p2011.cpp
+ 
+Building target: p2011
+Invoking: MacOS X C++ Linker
+g++  -o "p2011"  ./p2011.o   
+Finished building target: p2011
+ 
+
+17:20:06 Build Finished. 0 errors, 1 warnings. (took 378ms)
+

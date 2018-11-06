@@ -1,0 +1,84 @@
+17:36:07 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:12 **** Incremental Build of configuration Debug for project p2023 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:16 **** Incremental Build of configuration Debug for project p2023 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:32 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:33 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:34 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:46 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+Building file: ../p2032.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2032.d" -MT"p2032.o" -o "p2032.o" "../p2032.cpp"
+Finished building: ../p2032.cpp
+ 
+Building target: p2032
+Invoking: MacOS X C++ Linker
+g++  -o "p2032"  ./p2032.o   
+Finished building target: p2032
+ 
+17:36:47 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:48 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:49 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:36:50 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:37:11 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+Building file: ../p2032.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2032.d" -MT"p2032.o" -o "p2032.o" "../p2032.cpp"
+Finished building: ../p2032.cpp
+ 
+Building target: p2032
+Invoking: MacOS X C++ Linker
+g++  -o "p2032"  ./p2032.o   
+Finished building target: p2032
+ 
+17:37:12 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:37:13 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:37:14 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:37:15 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:37:16 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.
+17:38:59 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+Building file: ../p2032.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2032.d" -MT"p2032.o" -o "p2032.o" "../p2032.cpp"
+Finished building: ../p2032.cpp
+ 
+Building target: p2032
+Invoking: MacOS X C++ Linker
+g++  -o "p2032"  ./p2032.o   
+Finished building target: p2032
+ 
+17:39:00 **** Incremental Build of configuration Debug for project p2032 ****
+make all 
+make: Nothing to be done for `all'.

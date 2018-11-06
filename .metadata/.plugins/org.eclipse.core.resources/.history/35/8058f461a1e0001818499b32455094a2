@@ -1,0 +1,16 @@
+/*
+ * p2025.cpp
+ *
+ *  Created on: Nov 4, 2018
+ *      Author: zhaohankai
+ */
+#include<iostream>
+#include<cstdio>
+using namespace std;
+int main() {
+
+	return 0;
+}
+
+
+

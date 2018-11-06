@@ -1,0 +1,6 @@
+17:20:04 **** Incremental Build of configuration Debug for project p2005 ****
+make all 
+make: Nothing to be done for `all'.
+
+17:20:04 Build Finished. 0 errors, 0 warnings. (took 66ms)
+

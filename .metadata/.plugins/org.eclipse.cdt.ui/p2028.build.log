@@ -1,0 +1,20 @@
+17:20:09 **** Incremental Build of configuration Debug for project p2028 ****
+make all 
+Building file: ../p2028.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"p2028.d" -MT"p2028.o" -o "p2028.o" "../p2028.cpp"
+../p2028.cpp:22:17: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]
+Finished building: ../p2028.cpp
+                printf("%d\n",lcs);
+                        ~~    ^~~
+                        %ld
+ 
+Building target: p2028
+1 warning generated.
+Invoking: MacOS X C++ Linker
+g++  -o "p2028"  ./p2028.o   
+Finished building target: p2028
+ 
+
+17:20:09 Build Finished. 0 errors, 1 warnings. (took 175ms)
+
